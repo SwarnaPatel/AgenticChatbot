@@ -1,0 +1,12 @@
+2026-01-29 22:12:34,512 - INFO - The value of x is: 2
+2026-01-29 22:12:34,512 - INFO - This is an info message from the logger.
+2026-01-29 22:12:34,512 - ERROR - An error occurred: Division by zero Swarna
+Traceback (most recent call last):
+  File "C:\Users\SWARNALATAPATEL\OneDrive - IBM\Documents\Swarna\Python\Code\LangGraph\AgenticChatbot\src\langgraphagenticai\tools\testfile1.py", line 10, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2026-01-29 22:12:34,516 - INFO - info
+2026-01-29 22:12:34,516 - WARNING - warning
+2026-01-29 22:12:34,516 - ERROR - error
+2026-01-29 22:12:34,516 - CRITICAL - critical
